@@ -1,0 +1,8 @@
+runtime: go111
+
+service: products
+
+#handlers:
+#- url: /api/.*
+#  secure: always
+#  script: auto
