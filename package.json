@@ -1,6 +1,6 @@
 {
   "name": "@liquid-labs/catalyst-products-api",
-  "version": "1.0.0-prototype.0",
+  "version": "1.0.0-prototype.1",
   "description": "Catalyst Products API is a high-level product management tool to help synchronize planning and meta-issues.",
   "main": "./dist/index.js",
   "module": "./dist/index.es.js",
